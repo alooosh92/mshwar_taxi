@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011612641290",
+    "project_id": "mshowar-b98e5",
+    "storage_bucket": "mshowar-b98e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011612641290:android:8235a0d60d1691900757f3",
+        "android_client_info": {
+          "package_name": "com.example.mshwar_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ9AA-Pe3xtSxbG19C6_gzfjqP62EHG60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011612641290:android:6396a301e40bf2680757f3",
+        "android_client_info": {
+          "package_name": "com.mshwar_taxi.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ9AA-Pe3xtSxbG19C6_gzfjqP62EHG60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
